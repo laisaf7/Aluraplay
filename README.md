@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Aluraplay
 
-Rápida descrição do objetivo de fazer esse projeto
+O objetivo desse projeto é aprofundar e praticar flexbox.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Aluraplay**
+| :label: Tecnologias | CSS (Flexbox)
+| :rocket: URL         | https://aluraplay-puce.vercel.app
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Front-end-CSS](https://github.com/laisaf7/Aluraplay/assets/137813392/e8270264-55ee-4260-ac64-428c8f19b609)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Nesse projeto fiz um site parecido com o YouTube com intuito de treinar o flexbox e o modo responsivo.
+
+![Aluraplay](https://github.com/laisaf7/Aluraplay/assets/137813392/048331af-44d8-436c-b7be-895b0fea0f46#vitrinedev)
+
